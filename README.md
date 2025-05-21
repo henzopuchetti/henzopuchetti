@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, eu sou o Henzo Puchetti</h1>
 
-<img src="https://i.pinimg.com/originals/e8/1b/6f/e81b6f6d93a73efc3d3b5aa5e8b01e1c.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%"/>
 
 ## 👨‍💻 Sobre mim
 
