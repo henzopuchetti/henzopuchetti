@@ -1,4 +1,4 @@
-<h1 align="center">Eu sou o Henzo Puchetti - Seja Bem-vindo ao meu GitHub!</h1>
+<h1 align="center"><b>Eu sou o Henzo Puchetti - Seja Bem-vindo ao meu GitHub!</b></h1>
 
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" style="width: 100%; display: block; border-radius: 10px;"/>
 
@@ -27,7 +27,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" />
   <img src="https://img.icons8.com/color/48/000000/canva.png" width="40"/>
-  <img src="https://img.icons8.com/color/48/000000/lucidchart.png" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
 </p>
