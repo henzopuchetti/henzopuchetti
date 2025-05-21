@@ -1,16 +1,46 @@
-## Hi there 👋
+<h1 align="center">Hey 👋, eu sou o Henzo Puchetti</h1>
 
-<!--
-**henzopuchetti/henzopuchetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://i.pinimg.com/originals/e8/1b/6f/e81b6f6d93a73efc3d3b5aa5e8b01e1c.gif" width="100%"/>
 
-Here are some ideas to get you started:
+## 👨‍💻 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na FIAP  
+- 👨‍💻 Atualmente focado em projetos com **Java, Spring Boot, React e SQL**  
+- 📡 Interessado em desenvolvimento de **APIs REST**, **DESENVOLVIMENTO WEB** e **MANIPULAÇÂO DE DADOS**  
+- 💡 Adoro criar soluções que envolvam tecnologia e boas práticas de código  
+- 🤝 Sempre aberto a colaborar em projetos que me desafiem e me façam evoluir
+
+## 🛠️ Tecnologias e Ferramentas
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+</p>
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=henzopuchetti&show_icons=true&theme=tokyonight&count_private=true&hide_title=false" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henzopuchetti&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+## ✨ Fun Facts
+
+- 📍 São Paulo - SP  
+- 🎮 Apaixonado por tecnologia, games, aprendizado contínuo e café  
+- 🧠 Sempre explorando novas ferramentas, frameworks e ideias
+
+---
+
+📫 **Entre em contato comigo:**
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/henzoboschiero/])  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henzoboschiero@gmail.com)
