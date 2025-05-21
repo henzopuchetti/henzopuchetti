@@ -1,22 +1,23 @@
 <h1 align="center">Eu sou o Henzo Puchetti</h1>
 
-<div style="position: relative; text-align: center;">
+<div style="position: relative; display: inline-block; width: 100%; text-align: center;">
+
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" style="width: 100%; display: block; border-radius: 10px;"/>
 
   <h1 style="
     position: absolute;
-    top: 20px;
+    top: 10px;
     left: 50%;
     transform: translateX(-50%);
     color: white;
-    font-size: 2.5em;
-    background-color: rgba(0, 0, 0, 0.5);
-    padding: 10px 20px;
-    border-radius: 10px;
+    font-size: 2em;
+    background-color: rgba(0, 0, 0, 0.6);
+    padding: 8px 16px;
+    border-radius: 8px;
+    margin: 0;
   ">
-    Seja Bem-vindo ao meu GitHub
+    Seja Bem-vindo ao meu GitHub!
   </h1>
-
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%"/>
 
 </div>
 
